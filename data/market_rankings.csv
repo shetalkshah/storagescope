@@ -1,0 +1,22 @@
+period,ranking_type,rank,market,value,unit,source_id,source_file,source_page
+Q2 2026,most_improved,1,"San Jose-Sunnyvale-Santa Clara, CA MSA",10.9,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,most_improved,2,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",10.6,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,most_improved,3,"Oklahoma City, OK MSA",9.0,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,most_improved,4,"San Diego-Carlsbad-San Marcos, CA MSA",8.7,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,most_improved,5,"St. Louis, MO-IL MSA",7.0,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,most_improved,6,"Denver-Aurora, CO MSA",6.7,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,1,"Tampa-St. Petersburg-Clearwater, FL MSA",-20.4,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,2,"Orlando, FL MSA",-17.7,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,3,"Hartford-West Hartford-East Hartford, CT MSA",-17.4,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,4,"New York-Newark-Edison, NY-NJ-PA MSA",-16.9,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,5,"Jacksonville, FL MSA",-15.2,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q2 2026,watch_list,6,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",-12.7,aggregate growth score,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,42
+Q4 2025,top_occupancy_yoy,1,"Columbus, OH",2.7,percentage points,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,top_occupancy_yoy,2,"Austin, TX",2.5,percentage points,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,bottom_occupancy_yoy,1,"Tampa, FL",-4.9,percentage points,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,bottom_occupancy_yoy,2,"Cape Coral-Fort Myers, FL",-7.0,percentage points,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,top_rate_yoy,1,"Charleston, SC",8.7,rate per square foot,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,top_rate_yoy,2,"Tampa, FL",5.2,rate per square foot,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,bottom_rate_yoy,1,"Austin, TX",-11.2,rate per square foot,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+Q4 2025,bottom_rate_yoy,2,"San Francisco, CA",-5.6,rate per square foot,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,20
+

@@ -1,0 +1,14 @@
+period,category,metric,value,unit,direction,source_id,source_file,source_page,note
+Q4 2025,Pricing,REIT street-rate YoY change,-3.9,%,decline moderating,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,3,Q4 2025 decline was much smaller than the -18.9% YoY decline recorded in Q4 2024.
+Q4 2025,Pricing,REIT achieved-rate YoY change,-2.5,%,pressure easing,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,3,Smallest YoY decline since Q3 2024; discounting remained elevated.
+Q4 2025,Pricing,Non-REIT street-rate YoY change,-5.5,%,weaker than REITs,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,3,TractIQ reported non-REIT operators underperforming REITs on pricing.
+Q4 2025,Occupancy,Weighted average REIT occupancy YoY change,0.3,percentage points,first YoY gain since Q4 2021,TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,3,Reported as an inflection from deterioration to stabilization.
+Q2 2026,Pricing,Median asking rents QoQ change,7.3,%,seasonal improvement,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,5,Cushman summary for top-50-market sample.
+Q2 2026,Pricing,Median asking rents YoY change,1.7,%,modest annual gain,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,5,Cushman summary for top-50-market sample.
+Q2 2026,Occupancy,Median physical occupancy,90.0,%,flat,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,21,Cushman national benchmark was unchanged QoQ and YoY.
+Q2 2026,Concessions,Facilities offering concessions,73.1,%,increasing,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,21,Up 2.3 percentage points QoQ and 6.1 percentage points seasonally.
+Q2 2026,Concessions,Concession cost index,159.1,index,increasing,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,21,Effective benchmark cost of concessions by market.
+2026 forecast,Construction,Completed supply,53.0,million square feet,smallest delivery slate since 2016,MM_NATIONAL_2H_2026,2H26 - Self-Storage_National_Report pdf.pdf,1,Developers projected to expand total inventory by 2.2% in 2026.
+2026 forecast,Vacancy,Vacancy YoY change,-20,basis points,improving,MM_NATIONAL_2H_2026,2H26 - Self-Storage_National_Report pdf.pdf,1,Vacancy expected to fall to 10% by year-end 2026.
+2026 forecast,Pricing,Average asking rent YoY change,-0.8,%,fourth annual decline,MM_NATIONAL_2H_2026,2H26 - Self-Storage_National_Report pdf.pdf,1,"Forecast average asking rent of $1.18 per square foot, about 12% below the 2022 peak."
+

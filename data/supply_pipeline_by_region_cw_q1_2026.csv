@@ -1,0 +1,12 @@
+period,source_id,source_file,source_page,pipeline_stage,east_projects,midwest_projects,south_projects,west_projects,total_projects,qoq_change_pct,yoy_change_pct
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Bidding,8,15,19,11,53,6,-10
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Construction-In-Process,24,5,32,14,75,-3,-41
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Projects Deferred,10,2,25,19,56,47,-10
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Pre-Planning,22,28,25,10,85,347,-23
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Planning,87,15,74,88,264,29,-13
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Final Planning,0,0,1,1,2,0,-67
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Certificates of Occupancy,6,4,5,2,17,42,42
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Permit Issued,2,0,1,1,4,100,100
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,New Construction Starts,17,14,46,23,100,61,-30
+Q1 2026,CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,9,Totals,176,83,228,169,656,41,-20
+

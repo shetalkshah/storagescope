@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A source-backed view of U.S. self-storage pricing, occupancy, supply, market momentum and capital markets.">
+  <title>StorageScope | Self-Storage Industry Intelligence</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='13' fill='%23142832'/%3E%3Cpath d='M16 24h32v25H16z' fill='%232ca889'/%3E%3Cpath d='M21 30h22M21 36h22M21 42h22' stroke='%23081613' stroke-width='3'/%3E%3Cpath d='M12 24l20-11 20 11' fill='none' stroke='%23f4f7f8' stroke-width='4' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Dashboard navigation">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true"><i data-lucide="warehouse"></i></div>
+        <div><strong>StorageScope</strong><span>Industry intelligence</span></div>
+      </div>
+
+      <div class="nav-group-label">Analysis</div>
+      <nav class="nav-list" id="nav-list">
+        <button class="nav-item active" type="button" data-view="overview"><i data-lucide="layout-dashboard"></i><span>Executive overview</span></button>
+        <button class="nav-item" type="button" data-view="pricing"><i data-lucide="badge-dollar-sign"></i><span>Pricing &amp; revenue</span></button>
+        <button class="nav-item" type="button" data-view="demand"><i data-lucide="activity"></i><span>Demand &amp; occupancy</span></button>
+        <button class="nav-item" type="button" data-view="markets"><i data-lucide="map"></i><span>MSA markets</span></button>
+        <button class="nav-item" type="button" data-view="supply"><i data-lucide="construction"></i><span>Supply pipeline</span></button>
+        <button class="nav-item" type="button" data-view="capital"><i data-lucide="landmark"></i><span>Capital markets</span></button>
+        <button class="nav-item" type="button" data-view="structure"><i data-lucide="network"></i><span>Market structure</span></button>
+      </nav>
+
+      <div class="nav-group-label reference-label">Reference</div>
+      <nav class="nav-list">
+        <button class="nav-item" type="button" data-view="sources"><i data-lucide="book-open"></i><span>Sources &amp; definitions</span></button>
+      </nav>
+
+      <div class="sidebar-footer">
+        <strong>6 reports compiled</strong>
+        <span>Market data through Q2 2026</span>
+        <span>Company financials excluded</span>
+      </div>
+    </aside>
+
+    <button class="sidebar-scrim" id="sidebar-scrim" type="button" aria-label="Close navigation"></button>
+
+    <main class="main-canvas">
+      <header class="topbar">
+        <div class="title-wrap">
+          <button class="icon-button mobile-menu" id="mobile-menu" type="button" aria-label="Open navigation" data-tooltip="Open navigation"><i data-lucide="menu"></i></button>
+          <div>
+            <div class="eyebrow" id="view-eyebrow">Industry snapshot</div>
+            <h1 id="view-title">National overview</h1>
+            <p id="view-description">Market conditions, pricing power, demand and new supply</p>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <div class="snapshot-chip"><span class="status-dot"></span>Latest available</div>
+          <button class="secondary-button" id="download-button" type="button"><i data-lucide="download"></i><span>Download data</span></button>
+        </div>
+      </header>
+
+      <div class="view-controls" id="view-controls" aria-label="View controls"></div>
+      <section id="dashboard-view" aria-live="polite"></section>
+
+      <footer class="page-footer">
+        <span>Research snapshot assembled from six supplied reports.</span>
+        <button type="button" class="text-button" data-view="sources">Review methodology</button>
+      </footer>
+    </main>
+  </div>
+
+  <div class="tooltip" id="tooltip" role="tooltip"></div>
+  <script src="data.js"></script>
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
+

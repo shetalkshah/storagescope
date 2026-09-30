@@ -1,0 +1,8 @@
+source_id,file_name,source_role,excluded_from_dataset
+TRACTIQ_Q4_2025,TRACTIQ_REIT_REPORT_Q4.25.pdf,"REIT market pricing, occupancy inflection, MSA rate tables","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+CW_SSPQ_Q2_2026,CW_SSPQ_2Q26_Final_.pdf,"national operating benchmarks, supply pipeline, MSA performance rankings","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+MM_NATIONAL_2H_2026,2H26 - Self-Storage_National_Report pdf.pdf,"national forecast, development, transaction and capital markets trends","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+CUBESMART_2025_10K,cubesmart annual report.pdf,"industry context only: seasonality, competition, market selection","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+EXR_2025_10K,EXR-2025-Annual-Report-Final.pdf,"industry context only: tenant behavior, seasonality, fragmentation, competition","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+PSA_2025_10K,2025-PSA-Annual-Report-Final-Bookmarked.pdf,"industry context only: fragmentation, technology, development supply, competition","company financial statements, FFO, NOI, debt, dividends, stock performance, and company-specific profitability metrics"
+

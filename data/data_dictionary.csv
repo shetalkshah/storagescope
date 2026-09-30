@@ -1,0 +1,9 @@
+dataset,grain,description
+national_indicators.csv,one metric by period/source,"Top-line market indicators for pricing, occupancy, concessions, supply, vacancy and capital conditions."
+msa_street_rates_tractiq_dec2025.csv,one MSA by unit benchmark,"REIT street-rate benchmark for 10x10 non-climate and climate-controlled units, Dec. 2025."
+supply_pipeline_by_region_cw_q1_2026.csv,one construction pipeline stage,Projects by region and stage with QoQ and YoY change.
+market_rankings.csv,one ranked market,Most improved/watch-list markets plus selected top/bottom MSA rate and occupancy change observations.
+industry_themes.csv,one synthesized industry theme,Qualitative themes with source pages for dashboard narrative and annotations.
+dashboard_sections.csv,one dashboard section,Proposed dashboard information architecture before build.
+source_inventory.csv,one supporting file,Source role and exclusion notes to separate industry data from company financials.
+
